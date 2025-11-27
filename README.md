@@ -17,7 +17,9 @@ We will use the [bprateek/amazon_product_description](https://huggingface.co/dat
 
 Each record contains:
 product_title (string)
-product_description (string)
+category (string)
+about_product (string)
+product_specification (string)
 category (string)
 
 ## Project structure

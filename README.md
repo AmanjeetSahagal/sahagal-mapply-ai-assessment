@@ -70,7 +70,7 @@ You may use any programming language; place your implementation code under src/.
 2. **Embedding Generation**  
    - Use a pretrained model (e.g. `sentence-transformers/all-MiniLM-L6-v2`).  
    - Save embeddings to `outputs/embeddings/` (NumPy, JSON, etc.).  
-   - Note your model choice in the README.
+   - **Model used in this project:** `sentence-transformers/all-MiniLM-L6-v2`.
 
 3. **Indexing**  
    - Build a FAISS index (or your DB of choice).  
